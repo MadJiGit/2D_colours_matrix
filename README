@@ -1,0 +1,17 @@
+Some explanations:
+
+so_files    - folder with files for shared object lib
+test_files  - folder with test files  (test_1 ... test_4) 
+
+
+MAKEFILE:    
+            - make all
+            - make clean
+            - make run_all_tests
+            - make run_test_1
+            - make run_test_2
+            - make run_test_3
+            - make run_test_4
+
+run_c.c     - main C functions
+run_py.py   - python script
